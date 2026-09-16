@@ -1,0 +1,5 @@
+cryptography>=46.0
+numpy
+scipy
+pillow
+matplotlib
